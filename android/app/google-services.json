@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375369223593",
+    "project_id": "mp-transport-5db91",
+    "storage_bucket": "mp-transport-5db91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375369223593:android:5b8c67912ee575994348b8",
+        "android_client_info": {
+          "package_name": "com.techhole.mp_transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375369223593-1bok5uqn79puqlggl4b6hhogt1cvjv44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rgMqBKFEpD5QiBQRIhw_D0NjepSJ7u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375369223593-1bok5uqn79puqlggl4b6hhogt1cvjv44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
